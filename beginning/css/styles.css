@@ -6,3 +6,15 @@
 .card .card-body {
     border: none;
 }
+
+.mybgcolor {
+    background-color: #120047;
+}
+
+.nav-link {
+    background-color: #120047;
+    color: white; 
+}
+.nav-link:hover {
+    background-color: white;
+}
